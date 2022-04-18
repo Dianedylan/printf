@@ -1,2 +1,0 @@
-# printf
-Group Project Repo
